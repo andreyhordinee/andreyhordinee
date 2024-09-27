@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=dialga&user=andreyhordinee&theme=squirtle">
+  <img src="https://pokemon-status.vercel.app/?pokemon=dialga&user=andreyhordinee&theme=dratini">
 </div>
 
 <!---
