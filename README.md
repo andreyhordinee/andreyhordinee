@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=dratini&user=andreyhordinee&theme=dratini&hide=user" />
+  <img src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=andreyhordinee&theme=pikachu&hide=user" />
 </div>
 
 <!---
