@@ -1,10 +1,9 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=andreyhordinee&theme=pikachu&hide=user" />
+[![Tailwind Components][logo-url]][site-url]  
+
 </div>
 
-<!---
-andreyhordinee/andreyhordinee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[logo-url]: https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e
+[site-url]: https://daisyui.com/
